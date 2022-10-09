@@ -1,4 +1,5 @@
 # repo-template
+# 🔒 We are no longer using these templates.
 Repo Templates, inspired by Microsoft
 
 ## How do we apply these?
